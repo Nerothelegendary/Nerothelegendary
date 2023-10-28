@@ -1,5 +1,5 @@
-- Pode me chamar de Natan 
-- Estudante de Segurança da informação e Desenvolvedor Web
-- 📫 natansilver17@gmail.com, caso queira um contato mais próximo 
+- I'm Natan
+- DataScience's Student
+- 📫 natansilver17@gmail.com, if you wanna get closer.
 
 ;-)
